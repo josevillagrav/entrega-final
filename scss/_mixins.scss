@@ -1,0 +1,17 @@
+@mixin titulos {
+  text-align: center;
+  margin-top: 20px;
+}
+
+//EXTEND
+
+.btnGeneral {
+  background-color: $colorBoton;
+  color: white;
+  text-decoration: none;
+}
+
+.boton404 {
+  @extend .btnGeneral;
+  text-transform: uppercase;
+}
