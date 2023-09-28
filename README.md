@@ -1,4 +1,5 @@
 # PlayParadise 🎮
+
 ## Tienda e-commerce de videojuegos y consolas
 
 Presento mi proyecto final para el curso de desarrollo web, que trata sobre una tienda e-commerce para fanáticos de los videojuegos y consolas.
@@ -36,11 +37,11 @@ Utilizar el comando: git clone https://github.com/josevillagrav/entrega-final
 
 Utilizar el comando: npm install
 
-3 - Iniciar SASS para compilar  👀
+3 - Iniciar SASS para compilar 👀
 
 Utilizar el comando: npm run sass:watch
 
-4 - ¡Listo! Ya puedes comenzar a codear  🎉
+4 - ¡Listo! Ya puedes comenzar a codear 🎉
 
 ## Links ⛓️
 
