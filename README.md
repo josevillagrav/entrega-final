@@ -46,4 +46,7 @@ Utilizar el comando: npm run sass:watch
 ## Links ⛓️
 
 Link al repositorio > https://github.com/josevillagrav/entrega-final
+
 Link a pages > https://josevillagrav.github.io/entrega-final/
+
+link a servidor > https://playparadise.netlify.app/
